@@ -1,0 +1,5 @@
+name: HKMCBridge
+version: 1.0
+main: live.shotdevs.hkmcbridge.Main
+api-version: 1.20
+authors: [ShotDevs]
