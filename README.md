@@ -32,8 +32,7 @@ Currently, the Database Connection String is located in `Main.java`.
 
 ### 3. Building the Plugin
 Run the following command in the root directory:
-```bash
-mvn clean package
+`mvn clean package`
 
 The compiled .jar file will appear in the target/ folder.
 4. Deploying
