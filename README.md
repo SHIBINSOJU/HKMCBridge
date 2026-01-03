@@ -41,7 +41,7 @@ The compiled .jar file will appear in the target/ folder.
  * Start the server.
 📊 Database Schema
 The plugin creates a collection named players. Here is the data structure it saves:
-{
+`{
   "_id": "object_id...",
   "username": "Shibinsoju",
   "kills": 154,
@@ -49,7 +49,7 @@ The plugin creates a collection named players. Here is the data structure it sav
   "hearts": 9.5,
   "balance": 0,
   "isOnline": true
-}
+}`
 
 🚀 Commands & Permissions
 This plugin is fully automated. There are no commands or permissions required for players.
